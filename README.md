@@ -4,7 +4,7 @@
 AMIVA-F is a machine learning based algorithm, trained to correlate single point mutations
 with disease in FLNc.
 
-
+![alt text](https://github.com/nagym72/AMIVA-F/blob/main/amiva-f_preview.jpg)
 
 ## General Information:
 
