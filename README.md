@@ -1,11 +1,11 @@
+# **The web-based version of AMIVA-F can be found here**: http://amiva.msp.univie.ac.at/
+
+
 ### AMIVA-F-test package
 
 
 AMIVA-F is a machine learning based algorithm, trained to correlate single point mutations
 with disease in FLNc.
-
-# **The web-based version of AMIVA-F can be found here**: http://amiva.msp.univie.ac.at/
-
 
 
 ![alt text](https://github.com/nagym72/AMIVA-F/blob/main/amiva-f_preview.jpg)
