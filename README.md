@@ -11,6 +11,17 @@
 AMIVA-F is a machine learning based algorithm, trained to correlate single point mutations
 with disease in FLNc.
 
+### Here is an overview of the weblayout that can be used in the browser:
+
+![alt text](https://github.com/nagym72/AMIVA-F/blob/dd4df7372d96de91e4990d0b550ee1f242472a79/webpage/Screenshot%20from%202023-02-14%2016-34-21.png)
+![alt text](https://github.com/nagym72/AMIVA-F/blob/dd4df7372d96de91e4990d0b550ee1f242472a79/webpage/Screenshot%20from%202023-02-14%2016-34-34.png)
+![alt text](https://github.com/nagym72/AMIVA-F/blob/dd4df7372d96de91e4990d0b550ee1f242472a79/webpage/Screenshot%20from%202023-02-14%2016-34-52.png)
+![alt text](https://github.com/nagym72/AMIVA-F/blob/dd4df7372d96de91e4990d0b550ee1f242472a79/webpage/Screenshot%20from%202023-02-14%2016-35-07.png)
+
+
+
+### A standalone TK-inter based offline-version can also be found here and comes with a more minimalistic graphical userinterface but all capabilities. 
+
 
 ![alt text](https://github.com/nagym72/AMIVA-F/blob/main/amiva-f_preview.jpg)
 
